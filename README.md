@@ -24,3 +24,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julianajrp&show_icons=true&locale=en&layout=compact" alt="julianajrp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julianajrp&show_icons=true&locale=en" alt="julianajrp" /></p>
+
+ ![Snake animation](https://github.com/julianajrp/julianajrp/blob/output/github-contribution-grid-snake.svg)
