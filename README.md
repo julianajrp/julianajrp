@@ -1,12 +1,12 @@
 <h1 align="center">Hello 🙃 I'm Juliana Rocha</h1>
-<h3 align="center">A fast learner frontend developer from Brazil</h3>
+<h3 align="center">A fast learner Full Stack developer from Brazil</h3>
 <p><img align="left" src="https://cdn.discordapp.com/attachments/969030627687018498/1029552990325067826/igninho.gif" alt="julianajrpcat" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianajrp&label=Profile%20views&color=0e75b6&style=flat" alt="julianajrp" /> </p>
 
-- 🌱 I’m currently learning **React , React Native**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **JavaScript , React**
+- 💬 Ask me about **JavaScript, React, Node.js, Express**
 
 - 📫 How to reach me **rocha.juliana.pereira@gmail.com**
 
