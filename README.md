@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianajrp&label=Profile%20views&color=0e75b6&style=flat" alt="julianajrp" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Django**
 
 - 💬 Ask me about **JavaScript, React, Node.js, Express**
 
