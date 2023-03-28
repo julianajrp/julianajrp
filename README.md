@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianajrp&label=Profile%20views&color=0e75b6&style=flat" alt="julianajrp" /> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express**
+- 💬 Ask me about **JavaScript, React, Node.js, Express, Python, Django**
 
 - 📫 How to reach me **rocha.juliana.pereira@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/16R6t4H8Ddd7myhJXe5stfsCCf2TYU-cj/view?usp=share_link]
+- 📄 Know about my experiences [https://drive.google.com/file/d/1QTehc6u8KglnhoduTRLhzxDD-gwZZ2jO/view?usp=sharing]
 
 - ⚡ Fun fact **I'm also an artist!**
 
