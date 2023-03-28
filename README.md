@@ -30,6 +30,8 @@
 </a> <a href="https://www.djangoproject.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/7456fdff59816d37ef383a6c8f32a26ff7332db2/topics/django/django.png" alt="django" width="40" height="40"/> 
 </a> <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="node" width="40" height="40"/> 
  </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="express" width="40" height="40"/> 
+  </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql" width="40" height="40"/> 
+  </a> <a href="" target="_blank" rel="noreferrer"> <img src="https://insomnia.rest/images/insomnia-logo.svg" alt="insomnia" width="40" height="40"/> 
  </p>
 
  [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianajrp&layout=compact)](https://github.com/julianajrp/github-readme-stats)
