@@ -14,25 +14,23 @@
 
 - ⚡ Fun fact **I'm also an artist!**
 
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=julianajrp&show_icons=true)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/jrpjuliana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jrpjuliana/" height="30" width="40" /></a>
-</p>
-
-<h1>======================</h1>
 <div align="center" >
   <img width="450em" height="190em" src="https://github-readme-stats.vercel.app/api?username=julianajrp&show_icons=true&count_private=true&theme=tokyonight" />
   <img width="380em" height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianajrp&layout=compact&count_private=true&theme=tokyonight" />
 </div>
-<h1>======================</h1>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <div style="display: inline_block">
 <br/>
     <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,styledcomponents,figma,vercel,nodejs,express,jest,python,django,postgres,git,bash,docker,heroku" />
 </div><br/>
- [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=julianajrp&layout=compact)](https://github.com/julianajrp/github-readme-stats)
+ 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/jrpjuliana/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jrpjuliana/" height="30" width="40" /></a>
+</p>
+
 
  ![Snake animation](https://github.com/julianajrp/julianajrp/blob/output/github-contribution-grid-snake.svg)
