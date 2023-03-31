@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **rocha.juliana.pereira@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1QTehc6u8KglnhoduTRLhzxDD-gwZZ2jO/view?usp=sharing]
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1QTehc6u8KglnhoduTRLhzxDD-gwZZ2jO/view?usp=sharing" target="blank">here</a>
 
 - ⚡ Fun fact **I'm also an artist!**
 
