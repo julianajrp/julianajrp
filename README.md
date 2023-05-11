@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianajrp&label=Profile%20views&color=0e75b6&style=flat" alt="julianajrp" /> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **JavaScript, React, Node.js, Express, Python, Django**
+- 💬 Ask me about **JavaScript, React, Next, Node.js, Express**
 
 - 📫 How to reach me **rocha.juliana.pereira@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <div style="display: inline_block">
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,angular,java,styledcomponents,figma,vercel,nodejs,express,jest,php,python,django,postgres,git,bash,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,angular,styledcomponents,figma,vercel,nodejs,express,jest,python,django,postgres,git,bash" />
 </div><br/>
  
 
