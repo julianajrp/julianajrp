@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **JavaScript, React, Next, Node.js, Express, Prisma**
+- 💬 Ask me about **JavaScript, Angular, React, Next, Node.js, Express, Prisma**
 
 - 📫 How to reach me **rocha.juliana.pereira@gmail.com**
 
@@ -23,7 +23,7 @@
 
 <div style="display: inline_block">
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,styledcomponents,figma,vercel,nodejs,express,jest,python,django,postgres,git,bash,prisma,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,nextjs,tailwind,styledcomponents,figma,vercel,nodejs,express,jest,python,django,postgres,git,bash,prisma,docker" />
 </div><br/>
  
 
