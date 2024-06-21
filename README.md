@@ -1,16 +1,15 @@
 <h1 align="center">Hello 🙃 I'm Juliana Rocha</h1>
-<h3 align="center">A fast learner Full Stack developer from Brazil</h3>
+<h3 align="center">A fast learner Front Stack developer from Brazil</h3>
 <p><img align="left" src="https://cdn.discordapp.com/attachments/969030627687018498/1029552990325067826/igninho.gif" alt="julianajrpcat" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=julianajrp&label=Profile%20views&color=0e75b6&style=flat" alt="julianajrp" /> </p>
 
-- 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **JavaScript, Angular, React, Next, Node.js, Express, Prisma**
+- 💬 Ask me about **JavaScript, Typesccrit, React, Next, Node.js, Express, Prisma**
 
 - 📫 How to reach me **rocha.juliana.pereira@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1l84x0ltb_rl1ba9lWd9Xs3fcXfDR16lb/view?usp=sharing" target="blank">here</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1nPVM1ApPdyxCNR7odG-Y-OZifduG5bWY/view?usp=sharing" target="blank">here</a>
 
 - ⚡ Fun fact **I'm also an artist!**
 
@@ -23,7 +22,7 @@
 
 <div style="display: inline_block">
 <br/>
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,nextjs,tailwind,styledcomponents,figma,vercel,nodejs,express,jest,python,django,postgres,git,bash,prisma,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,tailwind,styledcomponents,figma,vercel,nodejs,express,jest,python,django,postgres,git,bash,prisma,docker" />
 </div><br/>
  
 
@@ -33,4 +32,4 @@
 </p>
 
 
- ![Snake animation](https://github.com/julianajrp/julianajrp/blob/output/github-contribution-grid-snake.svg)
+
